@@ -10,3 +10,22 @@ node_modules
 dist
 build
 .vite
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Env
+.env
+backend/.env
+frontend/.env
+
+# Uploads (DO NOT COMMIT USER FILES)
+backend/uploads/
+
+# Build
+dist/
+frontend/ai-learning-assistant/dist/
+
+# OS
+.DS_Store
