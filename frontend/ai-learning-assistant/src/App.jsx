@@ -7,8 +7,8 @@ import ProtectedRoute from './components/auth/ProtectedRoute';
 import DashboardPage from './pages/Dashboard/DashboardPage';
 import DocumentListPage from './pages/Documents/DocumentListPage';
 import DocumentDetailPage from './pages/Documents/DocumentDetailPage';
-import FlashcardsListPage from './pages/FlashCards/FlashcardPage';
-import FlashcardPage from './pages/FlashCards/FlashcardListPage'
+import FlashcardsListPage from './pages/FlashCards/FlashcardListPage';
+import FlashcardPage from './pages/FlashCards/FlashcardPage'
 import QuizTakePage from './pages/Quizzes/QuizTakePage'
 import QuizResultPage from './pages/Quizzes/QuizResultPage'
 import ProfilePage from "./pages/Profile/ProfilePage"
